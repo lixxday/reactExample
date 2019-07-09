@@ -17,7 +17,7 @@ const Home: React.FunctionComponent = () => (
     <HowTo>
       <DescriptionList>
         <DescriptionLine>
-          To create a page or a component, run <Code>yarn generate</Code>.
+          Hello ! To create a page or a component, run <Code>yarn generate</Code>.
         </DescriptionLine>
         <DescriptionLine>
           The style is centralized in the <Code>src/stylesheet.ts</Code>. From there, you can manage
